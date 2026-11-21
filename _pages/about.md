@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in National Taiwan University (NTU) with a major in Communication Engineering, where I'm extremely fortunate to be advised by Prof. Shih-Chun Lin. I graduated with a B.Sc. from National Tsing Hua University (NTHU) with a major in Electrical Engineering, where I was lucky to do research with Prof. Shang-Hua Yang on terahertz wireless communication.
+I am a M.S. student in National Taiwan University (NTU) with a major in Communication Engineering, where I'm fortunate to be advised by Prof. Shih-Chun Lin. Now, I am working on my Master's Thesis on finite-length codes in an erasure channel.
+
+I graduated with a B.Sc. in Electrical Engineering from National Tsing Hua University (NTHU), where I was lucky to conduct research with Prof. Shang-Hua Yang on terahertz wireless communication.
 
 I am interested in information and coding theory in wireless communication. I'm also broadly interested in problems related to Network, Data, and Signal, such as Markov chains, statistical inference, and machine learning theory.
 
