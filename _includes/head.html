@@ -16,7 +16,49 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <style>
-  body, h1, h2, h3, h4, h5, h6, , .sidebar, .page__content, .archive__item-title, .author__name, .masthead {
+  /* 1. Upper navigation bar (Site title & menu links) */
+  .masthead,
+  .masthead__inner-wrap,
+  .greedy-nav,
+  .greedy-nav a,
+  .site-title {
+    font-family: Verdana, sans-serif !important;
+  }
+
+  /* 2. Left sidebar info (Author name, bio, location, links) */
+  .sidebar,
+  .author__name,
+  .author__bio,
+  .author__urls-wrapper,
+  .author__urls li,
+  .author__urls a {
+    font-family: Arial, Helvetica, sans-serif !important;
+  }
+
+  /* 3. Page & section headings */
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .archive__item-title {
+    font-family: Georgia, serif !important;
+  }
+
+  /* 4. Main page body text */
+  body,
+  .page__content p,
+  .page__content li {
+    font-family: "Times New Roman", Times, serif !important;
+  }
+
+  /* 5. Code blocks (optional) */
+  code, pre {
+    font-family: "Courier New", Courier, monospace !important;
+  }
+</style>
+
+<!--
+<style>
+  body, h1, h2, h3, h4, h5, h6, , .page__content, .archive__item-title, .author__name, .masthead {
     font-family: Georgia, serif !important;
   }
 </style>
+-->
