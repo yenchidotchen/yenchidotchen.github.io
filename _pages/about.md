@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in National Taiwan University (NTU) with a major in Communication Engineering, where I'm fortunate to be advised by Prof. Shih-Chun Lin. Now, I am working on my Master's Thesis on finite-length codes in an erasure channel.
+I am a M.S. student in National Taiwan University (NTU) with a major in Communication Engineering, where I'm fortunate to be advised by Prof. Shih-Chun Lin. Now, I am working on my Master's Thesis on finite-length linear codes in an erasure channel.
 
 I graduated with a B.Sc. in Electrical Engineering from National Tsing Hua University (NTHU), where I was lucky to conduct research with Prof. Shang-Hua Yang on terahertz wireless communication.
 
-I am interested in information and coding theory in wireless communication. I'm also broadly interested in problems related to Network, Data, and Signal, such as Markov chains, statistical inference, and machine learning theory.
+I am interested in information and coding theory and wireless communication. I'm also broadly interested in problems related to Network, Data, and Signal, such as signal processing, statistics, and machine learning theory.
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
