@@ -36,3 +36,13 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.greedy-nav .visible-links {
+  margin-left: auto;
+}
