@@ -36,3 +36,10 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Increase distance between sidebar and main content on desktop */
+@media (min-width: 1024px) {
+  .page, .archive {
+    padding-left: 4em !important; /* Increase or decrease this number to adjust the gap */
+  }
+}
