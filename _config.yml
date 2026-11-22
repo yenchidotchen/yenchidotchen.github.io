@@ -23,7 +23,7 @@ repository               : "yenchidotchen/yenchidotchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic1.png"
   name             : "Yen-Chi Chen"
   pronouns         : # example: "she/her"  
   bio              : # "Wireless communication"
