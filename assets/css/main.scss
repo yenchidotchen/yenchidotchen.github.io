@@ -37,12 +37,11 @@
     "layout/sidebar"
 ;
 
-.greedy-nav {
+.greedy-nav .visible-links {
   display: flex;
-  align-items: center;
   width: 100%;
 }
 
-.greedy-nav .visible-links {
-  margin-left: auto;
+.greedy-nav .visible-links .masthead__menu-item--lg {
+  margin-right: auto;
 }
