@@ -43,3 +43,8 @@
     padding-left: 4em !important; /* Increase or decrease this number to adjust the gap */
   }
 }
+
+/* Hide the light/dark mode theme toggle button */
+.theme-toggle {
+  display: none !important;
+}
